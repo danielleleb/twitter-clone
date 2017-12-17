@@ -1,0 +1,73 @@
+body {
+  background: rgb(244, 248, 249);
+}
+
+#follow {
+  border: solid 2px rgb(85, 172, 238);
+  height: 50px;
+  width: 170px;
+  color: rgb(85, 172, 238);
+  border-radius: 15px;
+}
+
+
+#twitter-logo {
+  position: absolute;
+  margin:auto;
+  display: inline;
+padding: 11px 0 0 17px;
+}
+#follow-text {
+  font-family: helvetica;
+  font-size: 29px;
+padding: 10px 0 0 55px;
+}
+
+
+/*
+h1{
+
+  display: inline;
+  padding-right: 20px;
+  background: red;
+  font-family: helvetica;
+  padding-bottom: 5px;
+}
+*/
+
+/*
+#tweet {
+  position:relative;
+  background: red;
+  width: 200px;
+  height: 100px;
+  margin: auto;
+  width: 800px;
+  height: 300px;
+  padding: 0;
+}
+
+#twitter-logo {
+  padding: 5px 0 0 5px;
+}
+
+*/
+
+
+/*
+
+
+#follow {
+  background: white;
+position: absolute; right: 15px; top: 40px;
+border: 2px solid rgb(85, 172, 238);
+width: 150px;
+height: 40px;
+
+padding: 5px;
+}
+#twitter-logo {
+  float:left;
+
+}
+*/

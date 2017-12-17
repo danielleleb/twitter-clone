@@ -1,0 +1,40 @@
+#username {
+  height:80;
+  width: 128px;
+  border: 2px solid black;
+
+}
+
+#emoji{
+
+  position: relative;
+display: inline-block;
+vertical-align: middle;
+
+margin: 0 0 0 0px;}
+#jack{
+  vertical-align: middle;
+  position: relative;
+display: inline-block;
+margin: 0 0 0 0px;
+font-family: helvetica;
+font-size:30px;
+font-weight: bold;
+}
+#verified {
+  vertical-align: middle;
+  position: relative;
+display: inline-block;
+margin: 0 0 0 1px;
+}
+#handle {
+  vertical-align: middle;
+  position: relative;
+  display: inline-block;
+  margin: 0 0 0 0px;
+  font-family: helvetica;
+  font-size: 23px;
+  color: rgb(101, 116, 127);
+  padding-left: 0px;
+  float:left;
+}
